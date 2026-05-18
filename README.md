@@ -23,7 +23,9 @@ Day 1 — Setup complete
 - ✅ Google AI Studio API key provisioned
 - ✅ Groq API key provisioned
 - ✅ Hello-Gemini call working — see
+- 
 - <img width="824" height="218" alt="image" src="https://github.com/user-attachments/assets/b5cb9ddc-9f5b-4893-9dca-d68ce1dbab48" />
+
 4-tool comparison matrix from Lab 1A: see screenshot below
   
 <img width="610" height="217" alt="image" src="https://github.com/user-attachments/assets/4a9c435d-ba02-4b8b-a0b2-9b9f2c176548" />

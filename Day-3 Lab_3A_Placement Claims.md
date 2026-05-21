@@ -1,0 +1,79 @@
+
+## Placement Claims Verification Report
+
+This document summarizes the verification status of placement-related claims collected from AI-generated responses and cross-checked against official institutional reports, placement statistics, and publicly available primary sources.
+
+---
+
+## Objective
+
+The purpose of this exercise was to:
+
+* Validate AI-generated placement statistics.
+* Cross-check claims using official placement reports and institutional announcements.
+* Identify unsupported or partially supported claims.
+* Assess the reliability of AI-generated educational placement data.
+
+---
+
+## Verification Methodology
+
+Each claim was evaluated using the following process:
+
+1. Extract the original claim from the AI response.
+2. Identify the cited or implied source.
+3. Compare the claim with official placement reports, media releases, or institutional data.
+4. Assign one of the following verdicts:
+
+| Verdict           | Meaning                                                     |
+| ----------------- | ----------------------------------------------------------- |
+| VERIFIED          | Fully supported by a primary or official source             |
+| PARTIAL           | Partially supported or lacking exact numerical confirmation |
+| FALSE             | Contradicted by official data                               |
+| NO PRIMARY SOURCE | No reliable primary source found                            |
+
+---
+
+# Section A — IIT / IIM Placement Claims
+
+| S.No | Claim                                                 | AI Source                                    | Verification Result                                             | Verdict  |
+| ---- | ----------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------- | -------- |
+| 1    | 1,275 Job Offers at IIT Delhi                         | Office of Career Services (OCS) at IIT Delhi | Confirmed from official placement release up to December 2025   | VERIFIED |
+| 2    | 33% Surge in Pre-Placement Offers (PPOs) at IIT Delhi | OCS IIT Delhi                                | Confirmed via official institutional statements for 2025–26     | VERIFIED |
+| 3    | ₹26.45 Lakh Average Annual Salary at IIT Bombay       | IIT Bombay Annual Placement Report           | Verified from official placement data released in May 2026      | VERIFIED |
+| 4    | 70% Final Placement Rate at IIT Bombay                | IIT Bombay Annual Placement Report           | Verified using the 2024–25 placement report                     | VERIFIED |
+| 5    | ₹35.31 LPA Average Package at IIM Bangalore           | IIM Bangalore Final Audited Placement Report | Claim required clarification; audited figures differed slightly | PARTIAL  |
+
+---
+
+# Section B — IIIT Bhubaneswar / OUTR Placement Claims
+
+| S.No | Claim                                                      | AI Source           | Verification Result                                             | Verdict           |
+| ---- | ---------------------------------------------------------- | ------------------- | --------------------------------------------------------------- | ----------------- |
+| 1    | Undergraduate placement reached 90.07% at IIIT Bhubaneswar | Perplexity response | Matches official placement statistics                           | VERIFIED          |
+| 2    | Highest domestic CTC was 67.6 LPA at IIIT Bhubaneswar      | Perplexity response | Supported by official placement page                            | VERIFIED          |
+| 3    | M.Tech placements reached 64.12% at IIIT Bhubaneswar       | Perplexity response | Confirmed from institutional placement data                     | VERIFIED          |
+| 4    | 508 job offers were made at OUTR/CET placement stats       | Perplexity response | No reliable primary source confirming the number 508            | NO PRIMARY SOURCE |
+| 5    | Median salary was 7 LPA at OUTR/CET placement stats        | Perplexity response | Partial evidence found; exact figure not consistently supported | PARTIAL           |
+
+---
+
+## Reflection
+
+Most claims related to IIT Delhi, IIT Bombay, and IIIT Bhubaneswar were supported by official placement reports or institutional placement pages. However, some claims involving OUTR/CET lacked strong primary-source confirmation. This demonstrates that while AI systems can provide useful summaries, they may occasionally generate precise numerical claims without verifiable institutional backing.
+
+---
+
+## Weakest Claim Analysis
+
+The weakest claim identified was:
+
+> “508 job offers were made at OUTR/CET placement stats.”
+
+This claim appeared highly specific, which initially increased its perceived credibility. However, no reliable official placement report or institutional source was found to validate the exact figure. The absence of a primary source made the claim unreliable despite its detailed wording.
+
+---
+
+## Conclusion
+
+The verification exercise highlights the importance of validating AI-generated educational and placement statistics using authoritative institutional sources. Even when claims appear detailed and realistic, they should not be accepted without primary-source confirmation.

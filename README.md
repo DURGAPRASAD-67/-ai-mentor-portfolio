@@ -187,4 +187,95 @@ Block time daily for:
 
 > Your dream career at Infosys is within reach. The only question is — are you ready to start?
 
+````markdown id="krm2fp"
+# Day 4 — n8n Daily News Digest
+
+## Overview
+Built an automated AI-powered placement news digest workflow using self-hosted n8n, RSS feeds, Groq AI summarization, and Gmail SMTP.
+
+---
+
+## Features
+- ✅ Self-hosted n8n using Docker on AWS Ubuntu
+- ✅ Automated workflow scheduled daily at 7:00 AM IST
+- ✅ RSS feed integration for latest tech and placement news
+- ✅ AI summarization using Groq (`llama-3.3-70b-versatile`)
+- ✅ Email delivery using Gmail SMTP
+- ✅ Workflow exported as JSON
+
+---
+
+## Workflow Architecture
+
+```text
+Schedule Trigger
+      ↓
+RSS Read
+      ↓
+Limit Node
+      ↓
+Code Node
+      ↓
+HTTP Request (Groq AI)
+      ↓
+Send Email (SMTP)
+````
+
+---
+
+## Cron Schedule
+
+Runs every day at 7:00 AM IST.
+
+```cron
+0 0 7 * * *
+```
+
+Cron format used in n8n:
+
+```text
+[Second] [Minute] [Hour] [Day of Month] [Month] [Day of Week]
+```
+
+Timezone:
+
+```text
+Asia/Kolkata
+```
+
+---
+
+## Technologies Used
+
+* n8n
+* Docker
+* AWS EC2 Ubuntu
+* RSS Feeds
+* Groq API
+* Gmail SMTP
+
+---
+
+## Files
+
+* `Day4_NewsDigest.json` — exported n8n workflow
+* `daily_digest_test_email.png` — test email screenshot
+
+---
+
+## Test Email Screenshot
+
+<img width="688" height="306" alt="image" src="https://github.com/user-attachments/assets/cdb1eabd-7548-4650-b2ff-db1c3cdaeccb" />
+
+
+---
+
+## Status
+
+* ✅ Workflow tested successfully
+* ✅ Email delivery working
+* ✅ Daily automation configured
+
+```
+```
 

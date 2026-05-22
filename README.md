@@ -31,6 +31,160 @@ Day 1 — Setup complete
 <img width="610" height="217" alt="image" src="https://github.com/user-attachments/assets/4a9c435d-ba02-4b8b-a0b2-9b9f2c176548" />
 
 
+#4A Lab_Infosys_brief
+# Unlock Your Tech Career: Ace Your Infosys Placement
 
+A step-by-step guide for B.Tech students to crack one of India's most coveted campus placements — from eligibility to offer letter.
+
+---
+
+# Why Infosys?
+
+With 350,000+ employees across 50+ countries, Infosys is a global powerhouse in digital transformation.
+
+## Innovation at Scale
+Leading AI, cloud, and digital solutions for Fortune 500 clients worldwide.
+
+## Global Exposure
+International projects, structured career programs, and continuous learning.
+
+## Culture of Excellence
+A dynamic environment fostering innovation, collaboration, and growth.
+
+---
+
+# Your Path to Infosys: The Hiring Process
+
+Four stages stand between you and your offer letter. Know each one cold.
+
+1. **Online Assessment**
+   - Aptitude
+   - Coding
+   - Verbal via InfyTQ
+
+2. **Technical Interview**
+   - DSA
+   - Projects
+   - Problem-solving
+
+3. **HR Interview**
+   - Communication
+   - Cultural fit
+
+4. **Final Selection**
+   - System Engineer
+   - Specialist Programmer
+   - Power Programmer
+
+> Each stage is a filter — prepare strategically for all four to maximize your chances.
+
+---
+
+# Infosys's Technical Landscape
+
+## Core Technologies
+- Java
+- Python
+- C++
+- .NET
+- SQL
+- JavaScript
+
+## Emerging Tech
+- AI
+- ML
+- Cloud (AWS, Azure, GCP)
+- Data Analytics
+- Cybersecurity
+- DevOps
+
+## Infosys Platforms
+
+### InfyTQ
+Learning & certification platform.
+
+### HackWithInfy
+Annual coding competition.
+
+> Start your InfyTQ certification early — it's a strong differentiator in the selection process.
+
+---
+
+# Are You Eligible?
+
+## Key Requirements
+
+Infosys maintains consistent academic benchmarks across all hiring cycles. Check your college's placement cell for the exact criteria applicable to your batch.
+
+### Degree
+- B.E./B.Tech
+- M.E./M.Tech
+- MCA
+- M.Sc. (CS/IT)
+
+### Marks / CGPA
+- Minimum 60% or 6.5 CGPA throughout
+- Some hiring cycles may allow 55%
+
+### Backlogs
+- Zero active backlogs at onboarding
+
+---
+
+# Infosys in the News: Driving the Future
+
+## Infosys Topaz — AI-First Strategy
+Infosys is investing heavily in AI with Infosys Topaz, embedding AI across services and operations.
+
+## Net-Zero by 2040
+Committed to net-zero emissions by 2040 with green IT and sustainable practices.
+
+## Expanding Global Partnerships
+Deepening collaborations with AWS, Microsoft, and Google to deliver cutting-edge digital transformation.
+
+---
+
+# 5 Essential Prep Tips to Secure Your Spot
+
+## 1. Master the Fundamentals
+Solidify DSA and OOP concepts.
+
+## 2. Practice Coding Daily
+Solve problems on:
+- LeetCode
+- GeeksforGeeks
+- InfyTQ
+
+## 3. Ace Aptitude & Reasoning
+Practice:
+- Quantitative aptitude
+- Logical reasoning
+- Verbal ability
+
+## 4. Mock Interviews
+Simulate real interview conditions to refine your responses.
+
+## 5. Stay Updated
+Follow Infosys news, tech trends, and company values.
+
+---
+
+# Your Future Starts Now: Prepare This Week!
+
+Every day you wait is a day someone else gets ahead. Start today.
+
+## Download InfyTQ
+Install the app and begin your certification journey.
+
+## Register for HackWithInfy
+Compete, learn, and get noticed by recruiters.
+
+## Start Your Prep Plan
+Block time daily for:
+- Aptitude practice
+- Coding
+- Mock interviews
+
+> Your dream career at Infosys is within reach. The only question is — are you ready to start?
 
 

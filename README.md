@@ -278,4 +278,21 @@ Asia/Kolkata
 
 ```
 ```
+## Day 5 Lab 5B — Hugging Face Pulls
 
+### Models tested
+- `facebook/bart-large-mnli` — zero-shot classification
+- `distilbert-base-uncased-finetuned-sst-2-english` — sentiment
+
+### Timing comparison
+
+| | min | avg | Notes |
+|---|---|---|---|
+| HF Inference API | N/A | N/A | DNS/network resolution failed in Colab runtime |
+| Local in Colab | 1.92s | 2.31s | Stable after initial model download |
+
+### When to use each
+
+1. API is useful for lightweight apps and avoids downloading models locally.
+2. Local inference is more reliable for batch processing and restricted environments.
+3. Production rule: use API for small workloads, self-host/local for large-scale inference.

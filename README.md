@@ -321,3 +321,44 @@ Asia/Kolkata
 ### Files
 - `Day6_PlacementProcessor.ipynb` — the notebook
 - `data/jds.jsonl` — output of this sprint, input for Day 7 RAG
+
+# Hello-LangGraph Agent
+
+A simple ReAct AI Agent built using LangGraph and Gemini.
+
+This project demonstrates:
+- Tool Calling
+- ReAct Architecture
+- AI Reasoning
+- Web Search Integration
+- Weather Tool Integration
+- Trace Debugging
+
+---
+
+# Features
+
+✅ Web Search Tool  
+✅ Weather Tool  
+✅ ReAct Agent  
+✅ Full Conversation Trace  
+✅ Multi-tool Agent Support  
+
+---
+
+# Technologies Used
+
+- Python
+- LangGraph
+- LangChain
+- Gemini API
+- DuckDuckGo Search
+
+---
+
+# Installation
+
+Install required libraries:
+
+```bash
+pip install langgraph langchain-google-genai langchain-community duckduckgo-search

@@ -413,3 +413,15 @@ The chatbot is designed to help students with:
 6. Configure LangChain retriever
 7. Connect Gemini LLM
 8. Ask placement-related question
+
+Day 9 — Capstone Sprint 4: Career Agent
+Multi-tool LangGraph ReAct agent
+3 tools integrated:
+jd_fetcher
+skills_gap
+answer_scorer
+Failure recovery tested successfully
+Reflection
+Agents choose tools dynamically.
+Tool docstrings guide reasoning.
+Explicit ERROR handling prevents hallucination.

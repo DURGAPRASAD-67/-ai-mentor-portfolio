@@ -362,3 +362,54 @@ Install required libraries:
 
 ```bash
 pip install langgraph langchain-google-genai langchain-community duckduckgo-search
+
+readme = r"""# RAG Chatbot for Placement Preparation
+
+LAB: 7B This project demonstrates a *Retrieval-Augmented Generation (RAG) Chatbot* built using:
+
+- *ChromaDB* for vector storage
+- *Sentence Transformers* for embeddings
+- *LangChain* for orchestration
+- *Google Gemini API* for conversational responses
+
+The chatbot is designed to help students with:
+
+- Placement job descriptions
+- Required technical skills
+- Semester syllabus topics
+- Company hiring information
+- Interview preparation queries
+
+---
+
+## Features
+
+- Store placement/job data in a vector database
+- Semantic search using embeddings
+- Retrieval-based question answering
+- Gemini-powered conversational responses
+- Persistent local vector database using ChromaDB
+
+---
+
+## Technologies Used
+
+- Python
+- ChromaDB
+- Sentence Transformers
+- LangChain
+- Google Gemini API
+- HuggingFace Embeddings
+
+---
+
+## Project Workflow
+
+1. Install required dependencies
+2. Load embedding model
+3. Create ChromaDB vector collection
+4. Insert placement/job description data
+5. Insert syllabus topic chunks
+6. Configure LangChain retriever
+7. Connect Gemini LLM
+8. Ask placement-related question
